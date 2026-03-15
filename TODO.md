@@ -1,0 +1,11 @@
+# AeroLinux Roadmap
+- [ ] Base Ubuntu MATE 24.04
+- [ ] Compiz + Emerald setup
+- [ ] Windows 7 GTK theme
+- [ ] Cairo Dock taskbar
+- [ ] Win7 default apps
+- [ ] Desktop gadgets
+- [ ] Win7 sounds
+- [ ] ISO packaging with Cubic
+- [ ] GitHub Pages website
+- [ ] First release v0.1
