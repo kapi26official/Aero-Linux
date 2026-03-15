@@ -35,7 +35,7 @@ Thanks for your interest in contributing! 🎉
 
 ## Contact
 - GitHub Issues
-- XDA Thread (coming soon)
+- r/aerolinux (soon)
 
 ## Credits
 All contributors will be credited 
